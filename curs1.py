@@ -1,1 +1,1 @@
-print("cursu")
+print("curs")
